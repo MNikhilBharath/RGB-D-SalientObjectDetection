@@ -10,6 +10,6 @@ between the final saliency maps and the ground truth.
   
 ![Screenshot (54)](https://github.com/MNikhilBharath/RGB-D-SalientObjectDetection/assets/67653205/088d2524-e609-4505-acea-ce4383d5bb70)
 
-![Screenshot (56)](https://github.com/MNikhilBharath/RGB-D-SalientObjectDetection/assets/67653205/8470181b-6c7e-4bd7-9c55-0f8812e29634)
+![Screenshot (59)](https://github.com/MNikhilBharath/RGB-D-SalientObjectDetection/assets/67653205/6a5c40a1-7410-4805-8f31-a3a13dd06737)
 
 ![Screenshot (58)](https://github.com/MNikhilBharath/RGB-D-SalientObjectDetection/assets/67653205/6a43e38c-8c9b-43d3-8196-5fd8a8ecfab8)
